@@ -13,6 +13,9 @@
 ## Customize the Layout
 @snapend
 
+@snap[north span-100 text-06]
+[My link @fa[external-link]](https://code.org/careers-in-tech)
+@snapend
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
